@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# ref 1030
+# ref 1035
 
 CACHE:
 # CSS
@@ -248,6 +248,7 @@ images/pushoff.png
 images/pushoff48.png
 images/pushon.png
 images/pushon48.png
+images/PV48.png
 images/radiation.png
 images/radiation48.png
 images/rain.png
